@@ -11,3 +11,4 @@ redis
 mysql
 juc
 nginx
+ribbon
