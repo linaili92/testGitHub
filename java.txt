@@ -2,3 +2,4 @@ spring
 spring mvc
 springboot
 springcloud
+mybatis
