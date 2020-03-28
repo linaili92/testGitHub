@@ -9,4 +9,5 @@ maven
 activemq
 redis
 mysql
+juc
 
