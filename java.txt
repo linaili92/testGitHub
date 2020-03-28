@@ -7,3 +7,5 @@ mycat
 git
 maven
 activemq
+redis
+
